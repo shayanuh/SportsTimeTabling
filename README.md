@@ -1,5 +1,7 @@
 # SportsTimeTabling
-This is the course project for the course :IME 639 ,The aim of the project was to solve the problem statement on sports timetabling from the contest 
+This is the course project for the course :IME 639 :Analytics in Transport and Telecom ,offered in 2020-21 II semester at IIT Kanpur.
+
+The aim of the project was to solve the problem statement on sports timetabling from the contest 
 
 ITC 2021:International Timetabling Competition on Sports Timetabling. 
 https://www.sportscheduling.ugent.be/ITC2021/index.php
