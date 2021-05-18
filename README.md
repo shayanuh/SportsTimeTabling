@@ -4,7 +4,7 @@ This is the course project for the course :IME 639 ,The aim of the project was t
 ITC 2021:International Timetabling Competition on Sports Timetabling. 
 https://www.sportscheduling.ugent.be/ITC2021/index.php
 
-I solved the problem by Integer programming formulation, and implemented in C++ using CPLEX.  The file description for different folders/files in this folder is shown below:   
+I solved the problem by Integer programming formulation, and implemented in C++ using CPLEX.  The file description for different folders/files in this folder is as below:   
 
 1)The complete visual studios solution/Project can be found in 'sportstimetabling' 
 
