@@ -27,3 +27,6 @@ The best LB and Best UB for the test instances can be found at : https://www.spo
 The solution file can be validated from : https://www.sportscheduling.ugent.be/ITC2021/validator.php  
 
 All the files satisfies the best LB i.e. produces optimal solution ,and are validated from above, 
+
+Note:1) That CPLEX API is required to run the code(used for solving linear/integer/constraint programming  and other OR problems efficiently), can be downloaded directly from IBM site
+2)tinxyxml.cpp and tinyxml.h files are required to run the code(read and write inn xml format ).(can be found in /sportstimetabling folder)
